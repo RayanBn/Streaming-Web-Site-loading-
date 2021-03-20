@@ -1,0 +1,10 @@
+div.Search input{
+    margin-left: 25%;
+    margin-top: 50px;
+    margin-right: 16px;
+    padding: 6px;
+    padding-left: 50px;
+    font-size: 30px;
+    width: 50%;
+    background: url("images/search.png") no-repeat ;
+}
